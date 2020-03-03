@@ -1,5 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+You can preview this project [here](https://fipie.github.io/tictactoe-app/)
+
+<hr>
+<div text-align="center">
+<img src="./images/01.png" alt="01.png" width="400" height="400">
+<img src="./images/02.png" alt="02.png" width="400" height="400">
+<div>
+<hr>
+
 ## Available Scripts
 
 In the project directory, you can run:
